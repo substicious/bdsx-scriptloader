@@ -24,8 +24,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -39,11 +41,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609768837060</updated>
-      <workItem from="1609768838231" duration="1153000" />
+      <workItem from="1609768838231" duration="1321000" />
     </task>
+    <task id="LOCAL-00001" summary="First Upload of ScriptLoader">
+      <created>1609770031473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609770031473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Upload of ScriptLoader" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Upload of ScriptLoader" />
   </component>
 </project>
