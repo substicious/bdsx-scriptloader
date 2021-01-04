@@ -100,7 +100,22 @@ let scriptLoader = class{
                                     }
                                     if(array[i].includes('// Option: ')){
                                         let optionName = array[i].replace('// Option: ', '').replace(': true|false', '');
-                                        C['installedScripts'][jsScript][optionName] = false;
+                                        let optionParam = array[i].replace('// Option: '+optionName+': ', '');
+                                        let optionParam2 = '';
+                                        if(optionParam.includes('INT')){
+                                            return optionParam2.replace('INT|','');
+                                        }
+                                        let option = '';
+                                        switch (optionParam){
+                                            case 'true|false':
+                                                return option = false;
+                                            case 'TRUE|false':
+                                                return option = true;
+                                            case 'true|FALSE':
+                                                return option = false;
+
+                                        }
+                                        C['installedScripts'][jsScript][optionName] = option;
 
                                     }
                                 }
