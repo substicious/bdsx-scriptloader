@@ -1,0 +1,19 @@
+Version: 1.0.0-Rev1
+enable: true
+enableByDefault: true
+installedScripts:
+  testScriptOne:
+    enabled: true
+    OptOne: false
+    OptTwo: false
+    OptThree: false
+  testScriptTwo:
+    enabled: true
+    OptOne: false
+    OptTwo: false
+    OptThree: false
+  testScriptThree:
+    enabled: true
+    OptOne: false
+    OptTwo: false
+    OptThree: false
