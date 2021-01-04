@@ -4,7 +4,6 @@
     <list default="true" id="58e0d01a-dc8c-4b64-ade9-12b3788b8a18" name="Default Changelist" comment="First Upload of ScriptLoader">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scriptLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/scriptLoader.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609768837060</updated>
-      <workItem from="1609768838231" duration="4405000" />
+      <workItem from="1609768838231" duration="4771000" />
+      <workItem from="1609786905358" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="First Upload of ScriptLoader">
       <created>1609770031473</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609771431700</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Upload of ScriptLoader">
+      <created>1609780612775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609780612775</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
